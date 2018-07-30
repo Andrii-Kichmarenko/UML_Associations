@@ -3,6 +3,7 @@
 Mapping UML Associations into Java Code.
 
 ## Binary association one to many
+Example based on car workshop workflow.
 
 ![alt text](./res/binaryAssociation.png)
 
